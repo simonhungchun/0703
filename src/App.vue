@@ -9,6 +9,8 @@
 </template>
 
 <script>
+// eslint-disable-next-line no-undef
+myUndefinedFunction();
 export default {
   name: "App",
   components: {},
