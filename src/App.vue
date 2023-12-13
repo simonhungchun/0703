@@ -9,7 +9,6 @@
 </template>
 
 <script>
-myUndefinedFunction();
 export default {
   name: "App",
   components: {},
