@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Vue.js</h1>
+    <h1>使用git协作开发vue.js项目！(申宏春)</h1>
   </div>
 </template>
 
