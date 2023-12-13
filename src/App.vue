@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Vue.js</h1>
+    <h1>使用Vue.js完成功能3(张傲宇)</h1>
   </div>
 </template>
 
